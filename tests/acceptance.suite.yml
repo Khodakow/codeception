@@ -15,4 +15,5 @@ modules:
          browser: firefox
          restart: false
          window_size: 1920x1080
+         clear_cookies: true
          #wait: 10
