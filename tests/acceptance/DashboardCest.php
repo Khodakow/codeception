@@ -2,7 +2,7 @@
 
 use \AcceptanceTester;
 
-include_once('FrontPage.php');
+include_once('pages/FrontPage.php');
 
 class DashboardCest {
     
