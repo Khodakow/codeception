@@ -1,0 +1,6 @@
+{
+    "require": {
+        "codeception/codeception": "*",
+        "monolog/monolog": "1.2.*"
+    }
+}

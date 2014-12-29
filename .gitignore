@@ -1,0 +1,6 @@
+.idea/
+.svn/
+.git/
+nbproject/
+target/
+vendor/
